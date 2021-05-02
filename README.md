@@ -109,7 +109,7 @@
    ---
 
    >Esse projeto foi desenvolvido com ❤️ por **[@Yan Falcão](https://www.linkedin.com/in/yanfalcao/)**, com o instrutor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, na #NextLevelWeek05 da **[Rocketseat](https://rocketseat.com.br/)**.<br>
-   Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉
+   Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉<br>
    >O README foi baseado no projeto do **[@Felipe Sales](https://github.com/felipecastrosales/DevQuiz/)**
 
 ---
